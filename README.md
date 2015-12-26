@@ -1,5 +1,5 @@
 # Getting-and-Cleaning-Data
-Coursera Data Science Specialization Course
+## Coursera Data Science Specialization Course
 
 This repo is created for the evaluation of the course project.
 
