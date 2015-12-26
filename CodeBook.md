@@ -7,4 +7,4 @@ Added variables:
 - Person: information contained in "subject\_test" / "subject\_train" data sets specifying the person that was being observed  
 - Group: two level factor variable telling whether the person belonged to the training or test data set
 
-Also note: The variables contained in the "FinalTidyData.txt"-file are - except for the grouping variables "Activity" and "Person" - the means of the respective variable grouped by those variables.
+Also note: The variables contained in the "FinalTidyData.txt"-file are - except for the grouping variables "Activity" and "Person" - the means of the respective variable grouped by the grouping variables.
