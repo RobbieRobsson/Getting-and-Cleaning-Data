@@ -9,4 +9,4 @@ It contains two linked R scripts that do the following:
 It also includes the file CodeBook.md that describes the data and the variables.
 
 ## Please note
-Please note that the run_analysis.R script doesn't stick to the order of the requirements. The merging step is done pretty late in the analysis only because I wanted to include a variable that contains the origin (training/test data set) for each observation. I realize that I could have spared myself a lot of coding by first merging the two data sets but I just didn't want to rewrite all the work I had done.
+Please note that the run_analysis.R script doesn't stick to the order of the requirements. The merging step is done pretty late in the analysis only because I wanted to include a variable that contains the origin (training/test data set) for each observation. I realize that I could have spared myself a lot of coding by first merging the two data sets but I just didn't want to rewrite all the work I had done when I finally realized this.
